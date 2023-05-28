@@ -1,1 +1,2 @@
 # SynerGame
+Весь код - SCRIPTS
